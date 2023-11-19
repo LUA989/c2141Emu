@@ -1,0 +1,16 @@
+final byte NOP = 0;
+final byte NOT = 1;
+final byte AND = 2;
+final byte OR = 3;
+final byte XOR = 4;
+final byte ADD = 5;
+final byte SUB = 6;
+final byte LDA = 7;
+final byte CFA = 8;
+final byte JMP = 9;
+final byte JC = 10;
+final byte JNC = 11;
+final byte STC = 12;
+final byte CLC = 13;
+final byte PSH = 14;
+final byte POP = 15;
